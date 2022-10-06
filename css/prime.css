@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(28, 28, 63);
+    padding: 0px 25px;
+}
+.left_links{
+    display: flex;
+    align-items: center;
+}
+.left_links li{
+     display: inline;
+}
+.left_links h1{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+button{
+    border: none;
+    background-color: rgb(23, 123, 168);
+    color: white;
+    padding: 14px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}

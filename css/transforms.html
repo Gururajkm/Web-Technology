@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+    div{
+        background-color: red;
+        border: 3px solid black;
+        height: 250px;
+        width: 250px;
+        position: absolute;
+        top: 40%;
+        left: 40%;
+        /* transform: rotate(45deg) ; */
+        transition: 10s;
+    }
+    div:hover{
+        /* transform: rotate(360deg); */
+        /* transform: skew(360deg); */
+        /* transform: skewX(45deg); default */
+        transform: skewY(180deg); 
+        /* transform: scale(2); */
+           /* transform: translate(1000px); default*/
+           /* transform: translate(-1000px); */
+    }
+    img{
+        position: absolute;
+        top: 60%;
+        left: 40%;
+    }
+    img:hover{
+        transition: 2s;
+        /* transform: rotate(360deg);  */
+         /* transform: skew(-45deg);  */
+         transform: translate(200px); margin-left: 100px; margin-left: 100px;
+    }
+   </style>
+</head>
+<body>
+    <div></div>
+    <img src="https://i.pinimg.com/originals/e7/06/b9/e706b9c1e0531b63020524d492545388.jpg" height="250" width="250" alt="">
+</body>
+</html>
