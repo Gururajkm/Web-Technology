@@ -1,0 +1,13 @@
+
+Format attributes: 
+
+1. <b> :it is used for bold the text. 
+2. <strong> ; it is also used for bold the text. 
+3. <i> : it is used for to italic the text. 
+4. <em> : it is also used for Italic the text. 
+5. <u>: it is used for underline the text. 
+6. <ins>: it is also used for underline the text. 
+7. <big>: it is increses the font size. 
+8. <small>: it decreses the font size. 
+9. <del>: 
+10. <strike>: 

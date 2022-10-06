@@ -1,0 +1,14 @@
+Anchor Tag:-
+1<a> to create Link. 
+2 href= hyper referenc. 
+3 anchor tags are use to create links that can navigate another web page 
+
+Anchor Tag Atributes: 
+href: 
+     This contains the path are the link to destination page 
+
+target: 
+     This specifies where to open destination page
+ 
+_blank:- 
+     opens the web page in new window or tab 

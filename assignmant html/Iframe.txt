@@ -1,0 +1,11 @@
+
+Iframes: 
+     This tags are used to embed online videos and documents in the html web page.
+ 
+Attributes: 
+
+1. Height & Width 
+2. Src: it contains the source and link of the video. 
+3. Frame border: it gives the border for the video, when the value is =1. 
+4. Allow: it contains all the you-tube features for a video. 
+5. Allowfullscreen: this attribute will enables the full screen mood. 

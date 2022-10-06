@@ -1,0 +1,45 @@
+List tags: 
+List are used to 
+
+There are three types of list 
+
+1. Un-order list :
+It is denoted by ul tag , all the list items will return within the li tag 
+
+Attributes of li tag 
+
+Type: 
+This attribute specified 
+1. Desc 
+2. Circle 
+3. Square 
+
+2. Order list 
+
+1. Ol tag is used to create an ordered list where there is important for the priority of the list items. 
+2. By default all this list items will be displayed in numbers. 
+
+Attributes of ol tag: 
+
+Type: numbers 
+ Uppercase Alphabets 
+ Lower case Alphabets 
+Start: 
+It specifies start index of list. 
+Nested list: 
+<type list1> 
+ <li>………….<li> 
+ <type of list2> 
+ <li>…..<li> 
+ </type of list 2> 
+</type of list1>
+ 
+3. Description list: 
+
+<dl> 
+ <dl> HTML.<dl> 
+ <dd>__________<dd> 
+</dl> 
+1. Description list is a list of terms with definition for each term.. 
+2. Dl tag defines the description list. 
+3. Dd tag defines the term & the definition for the term using return using dd tag.

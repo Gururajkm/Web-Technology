@@ -1,0 +1,12 @@
+Image tag:(<img>) 
+<img src="" alt="">
+     1. It is used Dispaly the image on the web page. 
+     2. It is single tag. 
+     3. Src :Source of the image 
+
+Attributes of image: 
+              1. src(source) : It contains the path or address of an image.
+ 
+              2. alt(alternate Text):this attributes display text whenever a image fails to display.
+ 
+              3. heigh&width: This helps to alter the height&width of the image.

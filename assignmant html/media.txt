@@ -1,0 +1,30 @@
+Media Tags: 
+This tags used for display video and audio Files 
+
+Video: 
+Use to display offline videos on webpage 
+
+<body>
+ <video controls src="haveri.mp4"></video>
+</body>
+
+Attributes: 
+
+1. src : it contains the name are path of the video file 
+2. controls : it gives all the controls of video like paly, pause, mute, unmute, full screen ….. 
+3. muted : video will be muted by the default. 
+4. auto play : video starts playing automatically when the page loads/ready. 
+5. Loop : video will starts from the beginning every time when its ends. 
+6. poster(thumbnail) : use to display on image before video starts palying. 
+7. Height : we can alter the height of the .video. 
+8. Width : we can alter the width of the video 
+
+Audio 
+
+Attributes: 
+1. src 
+2. controls 
+3. muted 
+4. auto play 
+5. loop 
+note: audio tag will not support height, width, poster attributes. 

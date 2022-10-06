@@ -1,0 +1,44 @@
+Tables 
+
+Tables are used to display in terms rows and columns. 
+Table tag used structure in html . 
+Rows for the table are created using <tr> tag. 
+<th> tag used to display the title display 
+The values for the title using <td> tag. 
+
+Rowspan & Colspan:-
+                Rowspan and Colspan are attribute given to th or td
+        where rows span is used to cocupy more then one row colspan 
+        occupy more then 1 column
+
+ex:-
+
+<table>
+ <tr>
+ <th> </th>
+ <th></th>
+ <th></th>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+</table>
+<table>
+ <tr>
+ <th></th>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <th></th>
+ <td></td>
+ <td></td>
+ </tr>
+</table

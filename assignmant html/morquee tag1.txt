@@ -1,0 +1,24 @@
+Marquee Tags: 
+
+We use marque tags for to create scrolling text 
+<body>
+ <marquee behavior=" " direction="">
+ <h1>Results announced....!</h1>
+ </marquee>
+</body>
+
+Attributes: 
+1. direction :- it specifies to which direction the content should scroll. 
+a.direction= “up” 
+b.direction= “down” 
+c.direction= “right” 
+d.direction= “left” 
+
+2. bgcolor:  it gives the background color for the marque section. 
+
+3. scrollamount: This can alter speed of scrolls.
+
+4. behavior: Behavior: it specifies scroll 
+a.scroll 
+b.slide 
+c. alternate 
